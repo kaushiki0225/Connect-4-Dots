@@ -1,1 +1,1 @@
-# Connect-4-Dots
+A JavaScript Game
